@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "stuname": "sagar",
+      "email": "sagarvavadiya1@gmail.com",
+      "password": "sagar123",
+      "note": "i'm sagar vavadiya; i'm mean stack developer",
+      "id": 7
+    }
+  ]
+}
